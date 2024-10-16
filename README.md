@@ -11,3 +11,6 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 ------------------------------------------------------------------------
 - Explicação previa de criação de VMs, mostrando a necessidade de se conhecer as terminologias dos parâmetros necessários para a criação de uma VM, pois isso impacta em custo, segurança e disponibiilidade
 - Visão rápida sobre criação de um banco de dados SQL
+------------------------------------------------------------------------
+- Video aula demonstrando o Portal com o globo e as localidades geograficas do Azure, junto com as informações de replicações e as interações fisicas entre os datacenters
+- Demonstração pratica da criação de um grupo de recursos e overview de configurações e governança que ele possui
