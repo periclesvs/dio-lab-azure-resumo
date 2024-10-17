@@ -14,3 +14,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 ------------------------------------------------------------------------
 - Video aula demonstrando o Portal com o globo e as localidades geograficas do Azure, junto com as informações de replicações e as interações fisicas entre os datacenters
 - Demonstração pratica da criação de um grupo de recursos e overview de configurações e governança que ele possui
+------------------------------------------------------------------------
+-Demonstração basica de criação de VMs pelo console do Azure, assim como criação de Áreas de Trabalho e Azure Functions (primeira tela)
