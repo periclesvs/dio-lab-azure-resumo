@@ -15,4 +15,9 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Video aula demonstrando o Portal com o globo e as localidades geograficas do Azure, junto com as informações de replicações e as interações fisicas entre os datacenters
 - Demonstração pratica da criação de um grupo de recursos e overview de configurações e governança que ele possui
 ------------------------------------------------------------------------
--Demonstração basica de criação de VMs pelo console do Azure, assim como criação de Áreas de Trabalho e Azure Functions (primeira tela)
+- Demonstração basica de criação de VMs pelo console do Azure, assim como criação de Áreas de Trabalho e Azure Functions (primeira tela)
+------------------------------------------------------------------------
+- Demonstração de criação de contas de armazenamento no Azure, e suas opções como blob, armazenamento que podem ser mapeados como rede, filas e tabelas
+- Tela de apresentação da estratégia de migração via Data Box, com suas opções de discos alugados para transporte de dados em massa
+- Execução de script azCopy
+- Explicação básica do uso do gerenciador de armazenamento do Azure para movimentação de arquivos locais para uma conta de armazenamento e vice versa
