@@ -21,3 +21,6 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Tela de apresentação da estratégia de migração via Data Box, com suas opções de discos alugados para transporte de dados em massa
 - Execução de script azCopy
 - Explicação básica do uso do gerenciador de armazenamento do Azure para movimentação de arquivos locais para uma conta de armazenamento e vice versa
+------------------------------------------------------------------------
+- Demonstraão do Entra ID e seus recursos, a diferença de controle de acessos do Entra ID para o RBAC que é aplicado direto no recurso ou grupo de recurso
+- Demontração do Cloud Defender como uma ferramenta multiplataforma, analisando outros providers e também analise de esteira DevOps
