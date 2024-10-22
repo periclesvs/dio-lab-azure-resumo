@@ -24,3 +24,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 ------------------------------------------------------------------------
 - Demonstraão do Entra ID e seus recursos, a diferença de controle de acessos do Entra ID para o RBAC que é aplicado direto no recurso ou grupo de recurso
 - Demontração do Cloud Defender como uma ferramenta multiplataforma, analisando outros providers e também analise de esteira DevOps
+------------------------------------------------------------------------
+- Demonstração da calculadore TCO, mostrando até os graficos finais que ajudam o time gerencial na tomada de decisão para migração ou não para a nuvem
+- Demonstração da Calculadora do Azure que demonstra o calculo prévio do custo de uso dos recursos em nuvem, para apoiar a previsibilidade de orçamento
+- Demonstração da utilização de Tags para gerenciamento dos recursos e melhor controle nas faturas de cobrança do Azure
