@@ -33,3 +33,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Demonstração do Pure View
 - Demonstração de aplicação de bloqueios e boas praticas
 - Demonstração de aplicação de politicas no Azure
+------------------------------------------------------------------------
+- Demonstração do console de comando no Azure com as opções de Power Shell e Bash
+- Demonstração de arquivos de código Biceps e Terraform, junto com a ferramenta ARM
+- Demonstração do Azure ARC
