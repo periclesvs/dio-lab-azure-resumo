@@ -28,3 +28,8 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Demonstração da calculadore TCO, mostrando até os graficos finais que ajudam o time gerencial na tomada de decisão para migração ou não para a nuvem
 - Demonstração da Calculadora do Azure que demonstra o calculo prévio do custo de uso dos recursos em nuvem, para apoiar a previsibilidade de orçamento
 - Demonstração da utilização de Tags para gerenciamento dos recursos e melhor controle nas faturas de cobrança do Azure
+------------------------------------------------------------------------
+- Demonstração do portal de conformidade
+- Demonstração do Pure View
+- Demonstração de aplicação de bloqueios e boas praticas
+- Demonstração de aplicação de politicas no Azure
