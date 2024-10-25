@@ -37,3 +37,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Demonstração do console de comando no Azure com as opções de Power Shell e Bash
 - Demonstração de arquivos de código Biceps e Terraform, junto com a ferramenta ARM
 - Demonstração do Azure ARC
+------------------------------------------------------------------------
+- Demontração do Azure Monitor e Advisor
